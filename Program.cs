@@ -4,7 +4,7 @@
 /// Guía :4
 /// Ejercicio: 4
 /// Fecha: 16 de Marzo de 2022
-/// Autora:  Michel Rosales
+/// Autor:  Michel Rosales
 
 /// </summary>
 
